@@ -1,9 +1,8 @@
 name: Publish package to npm
 
 on:
-  pull_request:
-    branches: [ main ]
-    types: [ closed, opened, synchronize, reopened, merged ] # Trigger on pull request merge
+release:
+    types: [published]
 
 jobs:
   build:
