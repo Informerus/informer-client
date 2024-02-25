@@ -1,0 +1,10 @@
+{
+  "printWidth": 65,
+  "tabWidth": 2,
+  "indent_style": "tab",
+  "useTabs": true,
+  "semi": true,
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "endOfLine": "auto"
+}
